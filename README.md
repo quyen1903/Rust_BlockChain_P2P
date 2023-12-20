@@ -1,6 +1,8 @@
 # rust-blockchain-example
 
 Simple example for building a blockchain in Rust
+Please use git bash or MacOs terminal or Linux terminal, because in windows, cmd or poershell are not convert Rust log command into enviroment variable and you need to set enviroment variable for it
+Instead of setup you own variable enviroment, just use git bash in windows and everything will be OK
 
 Start using
 
